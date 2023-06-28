@@ -1,7 +1,7 @@
 # NXP UCANS32K1
 The UCANS32K1SIC is a reference design development board used as a general purpose CAN node. This board uses specific software for drones, rovers and other small (autonomous) vehicles. This software allows it to act as a bridge between a CAN bus (with UAVCAN) and I2C, SPI, UART, GPIO on any other feature supported by the MCU. This allows sensors, actuators and other peripherals to be controlled by other devices on the same CAN bus. The board is also DroneCode connector standard compliant.
 ![Front side of UCANS32K1 board](../../assets/hardware/can_nodes/NXP_UCANS32K1(front).jpg)
-![Back side of UCANS32K1 board](../../assets/hardware/can_nodes/NXP_UCANSS32K1(back).jpg)
+![Back side of UCANS32K1 board](../../assets/hardware/can_nodes/NXP_UCANS32K1(back).jpg)
 ### Quick Summary
 **Main Processor:**
 - S32K1 running  a 80 MHz 32-bit Arm® Cortex®-M4F (ASIL-B compliant)
